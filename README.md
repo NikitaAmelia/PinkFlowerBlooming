@@ -42,7 +42,7 @@ PinkFlowerBlooming/
 
 ### 1️⃣ Clone the Repository
 
-```bash
+bash
 git clone https://github.com/NikitaAmelia/PinkFlowerBlooming.git
 
 cd PinkFlowerBlooming
@@ -98,3 +98,8 @@ CSS & SCSS learning showcase
 Personal portfolio demonstration
 
 Creative web experiments
+
+<img width="1771" height="874" alt="Screenshot 2025-12-24 143154" src="https://github.com/user-attachments/assets/997f3007-c8e8-444a-b2c7-4facda0b4c4f" />
+
+
+
