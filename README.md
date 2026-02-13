@@ -101,5 +101,16 @@ Creative web experiments
 
 <img width="1771" height="874" alt="Screenshot 2025-12-24 143154" src="https://github.com/user-attachments/assets/997f3007-c8e8-444a-b2c7-4facda0b4c4f" />
 
+---
 
+## 👩‍💻 Author
+
+Nikita Amelia Valencia  
+Machine Learning & Data Science Enthusiast
+
+---
+
+## 📜 License
+
+This project is for educational and portfolio purposes.
 
