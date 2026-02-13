@@ -4,6 +4,11 @@ A visually pleasing flower blooming animation created using **HTML**, **SCSS**, 
 This project demonstrates advanced CSS animations, gradients, and smooth visual effects to simulate a blooming flower scene with a romantic atmosphere.
 
 ---
+## 🔗 Live Demo (Streamlit App)
+
+👉 [https://cheerful-florentine-2eb486.netlify.app/]
+
+---
 
 ## ✨ Features
 
